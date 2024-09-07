@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.da5918ca.css",
-    "main.js": "/portfolio/static/js/main.9c69c44a.js",
+    "main.js": "/portfolio/static/js/main.47b7946a.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/movie.png": "/portfolio/static/media/movie.90c9a22a7f623bbf2585.png",
     "static/media/Course_Finder.png": "/portfolio/static/media/Course_Finder.6f8b69650cc54754a879.png",
     "static/media/dogbreed.png": "/portfolio/static/media/dogbreed.f001c4c3f3227af5dd46.png",
     "static/media/mental.png": "/portfolio/static/media/mental.1cd8c8f8c3caaf2d4132.png",
+    "static/media/heart.png": "/portfolio/static/media/heart.b22cc44b23a2fc835bd5.png",
+    "static/media/rocket.png": "/portfolio/static/media/rocket.66521668bb65b1c64467.png",
+    "static/media/churn.png": "/portfolio/static/media/churn.b595814a006314023039.png",
+    "static/media/flight.png": "/portfolio/static/media/flight.956f4140476df49ffb58.png",
     "static/media/home-sg.png": "/portfolio/static/media/home-sg.11b6f9a15642116559b0.png",
+    "static/media/Bulldozer.png": "/portfolio/static/media/Bulldozer.c03abdde51d09d4fa7ef.png",
     "static/media/arsh.jpeg": "/portfolio/static/media/arsh.8f7b12abe5669140e67d.jpeg",
     "static/media/navbar-logo.png": "/portfolio/static/media/navbar-logo.f87ae55c557dd80f4335.png",
     "index.html": "/portfolio/index.html",
     "main.da5918ca.css.map": "/portfolio/static/css/main.da5918ca.css.map",
-    "main.9c69c44a.js.map": "/portfolio/static/js/main.9c69c44a.js.map",
+    "main.47b7946a.js.map": "/portfolio/static/js/main.47b7946a.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da5918ca.css",
-    "static/js/main.9c69c44a.js"
+    "static/js/main.47b7946a.js"
   ]
 }
