@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.da5918ca.css",
-    "main.js": "/portfolio/static/js/main.78cc1661.js",
+    "main.css": "/portfolio/static/css/main.a1b404c4.css",
+    "main.js": "/portfolio/static/js/main.f972443d.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/movie.png": "/portfolio/static/media/movie.90c9a22a7f623bbf2585.png",
     "static/media/Course_Finder.png": "/portfolio/static/media/Course_Finder.6f8b69650cc54754a879.png",
@@ -12,17 +12,17 @@
     "static/media/churn.png": "/portfolio/static/media/churn.b595814a006314023039.png",
     "static/media/flight.png": "/portfolio/static/media/flight.956f4140476df49ffb58.png",
     "static/media/workout.png": "/portfolio/static/media/workout.2705c41ec317ef8d5fe6.png",
-    "static/media/home-sg.png": "/portfolio/static/media/home-sg.11b6f9a15642116559b0.png",
     "static/media/Bulldozer.png": "/portfolio/static/media/Bulldozer.c03abdde51d09d4fa7ef.png",
+    "static/media/arsh2.jpg": "/portfolio/static/media/arsh2.9a3c46cf0aa02b2733e9.jpg",
     "static/media/arsh.jpeg": "/portfolio/static/media/arsh.8f7b12abe5669140e67d.jpeg",
     "static/media/navbar-logo.png": "/portfolio/static/media/navbar-logo.f87ae55c557dd80f4335.png",
     "index.html": "/portfolio/index.html",
-    "main.da5918ca.css.map": "/portfolio/static/css/main.da5918ca.css.map",
-    "main.78cc1661.js.map": "/portfolio/static/js/main.78cc1661.js.map",
+    "main.a1b404c4.css.map": "/portfolio/static/css/main.a1b404c4.css.map",
+    "main.f972443d.js.map": "/portfolio/static/js/main.f972443d.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da5918ca.css",
-    "static/js/main.78cc1661.js"
+    "static/css/main.a1b404c4.css",
+    "static/js/main.f972443d.js"
   ]
 }
